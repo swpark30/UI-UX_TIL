@@ -31,7 +31,7 @@
 
     
 
-### 웹 동작 구조
+## 웹 동작 구조
 
 - 프론트 엔드 / 백 엔드 개발
 
@@ -68,7 +68,7 @@
 
 
 
-### HTML(Hyper Text Markup Language)
+## HTML(Hyper Text Markup Language)
 
 - 웹 브라우저에서 하이퍼텍스트 기능을 구현하는 웹 페이지 작성 언어
 
@@ -231,7 +231,7 @@ Head 부분
        - 여러 칸을 띄우려면 여러 번 사용
 
 
-     
+​     
 
 4. 하이퍼링크 태그
 
@@ -252,7 +252,6 @@ Head 부분
 
      - target = "iFrame" : iFrame 영역에서 출력
 
-   
    
    
 5. 목록 태그
